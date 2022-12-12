@@ -1,0 +1,11 @@
+.table-data{
+    text-align: center;
+    
+}
+tr:hover{
+    color: wheat;
+}
+table{
+    background-color: wheat;
+    
+}

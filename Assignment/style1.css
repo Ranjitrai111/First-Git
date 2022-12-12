@@ -1,0 +1,17 @@
+
+ .Register{
+    border: 5% solid black;
+ 
+ display: flex;
+ 
+ justify-items: center;
+    
+}
+.one{
+    color: aqua;
+    display: inline;
+}
+.two{
+    display:flex;
+    justify-items: center;
+}
